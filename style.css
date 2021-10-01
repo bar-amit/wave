@@ -26,10 +26,6 @@
     margin: 50px;
   }
   
-  .heading::before{
-    
-  }
-  
   .heading:after{
     content: "";
     display: block;
